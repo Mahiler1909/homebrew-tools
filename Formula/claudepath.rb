@@ -3,8 +3,8 @@ class Claudepath < Formula
 
   desc "Move Claude Code projects without losing session history and context"
   homepage "https://github.com/Mahiler1909/claudepath"
-  url "https://files.pythonhosted.org/packages/9b/c6/9207482b51bc7ba19f048dbc54b0d998288fd48d3f0f5d6314dc9a7b6b03/claudepath-0.4.0.tar.gz"                                     
-  sha256 "ba5a6ff8d3f32ddb09a4b71498ba1b558dfde54788745c78d58a0d536c7863c1"
+  url "https://files.pythonhosted.org/packages/20/a2/aac30dfd538ca5947f6146d0da4bc03e6c0db8835e2bfab232c9616a2e1a/claudepath-1.0.0.tar.gz"                                     
+  sha256 "1704e7185516c852791e0f259e303481a8ca3a50f71de1392b2b0dc4f6a21de0"
   license "MIT"
 
   depends_on "python@3.11"
